@@ -20,8 +20,8 @@ JavaScript <br>
 const mago = new Heroi('Gandalf', 2000, 'mago'); <br>
 mago.atacar(); // Saída: o mago atacou usando magia
 
-**Estrutura do Projeto** 
-script.js: Arquivo principal onde a classe Heroi é definida e as instâncias são criadas.
+**Estrutura do Projeto** <br>
+* script.js: Arquivo principal onde a classe Heroi é definida e as instâncias são criadas.
 
 **Contribuições**<br>
 Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
